@@ -1,0 +1,8 @@
+{
+  "name": "Gandhi: The Living Legacy",
+  "description": "An immersive, interactive digital tribute and museum experience dedicated to Mahatma Gandhi — his life, philosophy, archival voice, and timeless legacy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
